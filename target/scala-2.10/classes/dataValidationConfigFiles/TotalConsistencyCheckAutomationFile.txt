@@ -1,0 +1,15 @@
+environment^database^table^businessLine^viewMode^viewType
+KM^eview_gold^ev_viewing_history^DIRECTV^OTT^LIVE
+KM^eview_gold^ev_viewing_history^DIRECTV^OTT^VOD
+KM^eview_gold^ev_viewing_history^DIRECTV^STB^DVR
+KM^eview_gold^ev_viewing_history^DIRECTV^STB^LIVE
+KM^eview_gold^ev_viewing_history^DIRECTV^STB^VOD
+KM^eview_gold^ev_viewing_history^OTT^OTT^LIVE
+KM^eview_gold^ev_viewing_history^OTT^OTT^VOD
+KM^eview_gold^ev_viewing_history^U-verse^STB^APP
+KM^eview_gold^ev_viewing_history^U-verse^STB^DVR
+KM^eview_gold^ev_viewing_history^U-verse^STB^LIVE
+KM^eview_gold^ev_viewing_history^U-verse^STB^OTT
+KM^eview_gold^ev_viewing_history^U-verse^STB^OTHER
+KM^eview_gold^ev_viewing_history^U-verse^STB^PPV
+KM^eview_gold^ev_viewing_history^U-verse^STB^VOD

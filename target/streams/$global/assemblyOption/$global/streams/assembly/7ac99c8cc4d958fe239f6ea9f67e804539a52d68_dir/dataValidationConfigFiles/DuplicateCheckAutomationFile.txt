@@ -1,0 +1,15 @@
+environment^database^table^havingColumn^duplicateCheckColumns^businessLine^viewMode^viewType
+KM^eview_gold^ev_viewing_history^business_line^access_card_id, client_id, program_watch_start_time_local^DIRECTV^STB^DVR
+KM^eview_gold^ev_viewing_history^business_line^access_card_id, client_id, program_watch_start_time_local^DIRECTV^STB^LIVE
+KM^eview_gold^ev_viewing_history^business_line^access_card_id, client_id, program_watch_start_time_local^DIRECTV^STB^VOD
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^DIRECTV^TVE^LIVE
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^DIRECTV^TVE^VOD
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^DTVNow^TVE^LIVE
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^DTVNow^TVE^VOD
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^APP
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^DVR
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^LIVE
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^OTHER
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^OTT
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^PPV
+KM^eview_gold^ev_viewing_history^business_line^device_id, program_watch_start_time_local^U-verse^TVE^VOD
